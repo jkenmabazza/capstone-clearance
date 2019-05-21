@@ -1,0 +1,28 @@
+	.doc-title {
+		font-weight:bold;
+		font-size:180%;
+		color:#fff;
+		background-color:#093a8b;
+		border-radius:5px;
+		text-align:center;
+		margin-bottom:20px;
+		padding:10px;
+	}
+	.at {
+		color:#1b8a74;
+		font-weight:bold;
+	}
+	.ar {
+		color:#2b51b2;
+		font-weight:bold;
+	}
+	.th {
+		background-color:#3b3b3b;
+		color:#fff;
+		font-weight:bold;
+		font-size:130%;
+	}
+	.search {
+		margin-top:10px;
+		margin-bottom:10px;
+	}
